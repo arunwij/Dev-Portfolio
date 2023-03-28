@@ -1,6 +1,6 @@
-import Link from "../Link";
-import Section from "../Section";
-import SectionTitle from "../SectionTitle";
+import Link from "~/components/Link";
+import Section from "~/components/Section";
+import SectionTitle from "~/components/SectionTitle";
 
 export default function WorkExperience() {
   return (

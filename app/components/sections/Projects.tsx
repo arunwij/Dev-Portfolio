@@ -1,7 +1,7 @@
-import Badge from "../Badge";
-import IconRole from "../IconRole";
-import Section from "../Section";
-import SectionTitle from "../SectionTitle";
+import Badge from "~/components/Badge";
+import IconRole from "~/components/IconRole";
+import Section from "~/components/Section";
+import SectionTitle from "~/components/SectionTitle";
 
 export default function Projects() {
   return (

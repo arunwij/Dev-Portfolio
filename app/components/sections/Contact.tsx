@@ -1,8 +1,8 @@
-import IconGithub from "../IconGithub";
-import IconLinkedin from "../IconLinkedin";
-import IconTwitter from "../IconTwitter";
-import Link from "../Link";
-import Section from "../Section";
+import IconGithub from "~/components/IconGithub";
+import IconLinkedin from "~/components/IconLinkedin";
+import IconTwitter from "~/components/IconTwitter";
+import Link from "~/components/Link";
+import Section from "~/components/Section";
 
 export default function Contact() {
   return (
