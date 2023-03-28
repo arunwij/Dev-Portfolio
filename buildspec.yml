@@ -1,0 +1,19 @@
+# Do not change version. This is the version of aws buildspec.
+# Not the version of your buildspec file.
+version: 0.2
+
+phases:
+    install:
+        runtime-versions:
+            nodejs: 14
+    pre_build: 
+        commands:
+            - echo "installing dependencies"
+            - npm install
+    build:
+        commands:
+            - echo "generating production build"
+            - npm run build
+artifacts:
+    files:
+        - '**/*'
