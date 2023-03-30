@@ -1,5 +1,6 @@
 import Badge from "~/components/Badge";
 import IconAws from "~/components/IconAws";
+import IconCube from "~/components/IconCube";
 import IconCurlyBrace from "~/components/IconCurlyBrace";
 import IconDb from "~/components/IconDb";
 import IconNodeJs from "~/components/IconNodeJs";
@@ -10,6 +11,7 @@ import Contact from "~/components/sections/Contact";
 import Projects from "~/components/sections/Projects";
 import WorkExperience from "~/components/sections/WorkExperience";
 
+//  Main file
 export default function Index() {
   return (
     <main className="container py-5 px-5 mx-auto max-w-screen-sm h-100">
@@ -109,12 +111,14 @@ export default function Index() {
         />
       </div>
       <p className="mt-8">
-        Hi, my name is Aruna, and I am an experienced software engineer with
-        expertise in With a proven track record of designing solutions for
-        multiple clients, I can deliver high-quality results in a timely manner.
-        If you're looking for a dedicated and talented software engineer who can
-        help you build your next big project, let's work together to turn your
-        vision into reality.
+        Hey there, it's great to meet you! My name is Aruna, and I'm thrilled to
+        be here as an experienced software engineer. I have a passion for
+        creating innovative solutions that solve real-world problems, and I'm
+        excited to bring that same level of enthusiasm and expertise to your
+        project. With a strong track record of designing successful solutions
+        for multiple clients, I'm confident that I can deliver high-quality
+        results for you too. So if you're ready to take your next big project to
+        the next level, let's work together to turn your vision into reality!
       </p>
 
       <div className="mt-8">

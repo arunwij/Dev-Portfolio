@@ -13,7 +13,7 @@ export default function Contact() {
             Feel free to reach me via email{" "}
             <Link
               href="mailto:arunaswj@gmail.com"
-              className="text-blue-500 underline"
+              className="text-green-700 underline"
               target="_blank"
             >
               arunaswj@gmail.com
