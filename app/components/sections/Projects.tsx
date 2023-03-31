@@ -131,6 +131,22 @@ export default function Projects() {
             <li>Code reviews & ensure code quality.</li>
             <li>Setting up and managing deployment pipelines.</li>
           </ul>
+
+          <Expand>
+            <div className="flex flex-col items-center">
+              <img
+                src="img/spot1.png"
+                alt="fit-insights-candidates"
+                className="mt-6"
+              />
+
+              <img
+                src="img/spot2.png"
+                alt="fit-insights-dashboard"
+                className="mt-6"
+              />
+            </div>
+          </Expand>
         </div>
       </div>
 
