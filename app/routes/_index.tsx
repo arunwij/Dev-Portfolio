@@ -26,9 +26,9 @@ export default function Index() {
         </div>
         <div className="flex-1">
           <img
-            src="img/profile1.png"
-            alt="profile_picture_1"
-            className="aspect-square border-2 rounded-full"
+            src="img/profile2.jpeg"
+            alt="profile_picture_2"
+            className="aspect-square border-2 border-lime-600 rounded-full"
           />
         </div>
       </div>
